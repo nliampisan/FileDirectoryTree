@@ -1,0 +1,6 @@
+﻿  DirectoryTree.cpp
+c:\users\nl\source\repos\linuxshell_v2\linuxshell_v2\mytimerfile.hpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nl\source\repos\linuxshell_v2\linuxshell_v2\mymusicfile.hpp(34): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  LinuxShell_v2.vcxproj -> C:\Users\NL\source\repos\LinuxShell_v2\Debug\LinuxShell_v2.exe
